@@ -1,0 +1,25 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "A simple calculator used to learn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinmatthews/calc.git"
+  },
+  "keywords": [
+    "calc",
+    "calculator",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Devin Matthews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinmatthews/calc/issues"
+  },
+  "homepage": "https://github.com/devinmatthews/calc#readme"
+}
