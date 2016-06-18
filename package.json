@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/devinmatthews/calc/issues"
   },
-  "homepage": "https://github.com/devinmatthews/calc#readme",
-  "dependencies": {
-    "mongodb": "^2.1.18"
-  }
+  "homepage": "https://github.com/devinmatthews/calc#readme"
 }
