@@ -1,4 +1,4 @@
-(function() {
+
     var exports = module.exports = {};
     var User = require('../models/user');
 
@@ -28,5 +28,5 @@
 
     exports.findAll = findAll;
     exports.findByName = findByName;
-})();
+
     
