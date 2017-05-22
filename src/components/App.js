@@ -13,11 +13,12 @@ export default class App extends React.Component{
 
     shouldComponentUpdate () {
         //return this.scuKey
+        return true;
     }
 
     getAllUsers () {
         this.setState({
-            color: 'green'
+            color: 'blue'
         });
     }
     
